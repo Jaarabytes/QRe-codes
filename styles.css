@@ -7,3 +7,9 @@ body{
 img{
     padding:10px;
 }
+#main{
+    width: clamp(300px, 25%, 26%);
+}
+*{
+    box-sizing: border-box;
+}
